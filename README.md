@@ -3,7 +3,6 @@
 ## 🚀 About Me
 <p align='center'> <a href="https://wakatime.com/@your-wakatime-id"><img src="https://wakatime.com/badge/user/your-wakatime-id.svg"/></a> <a href="https://peerlist.io/paragvekariya"><img src="https://img.shields.io/badge/Peerlist-paragvekariya-00AB46?logo=peerlist"/></a> <a href="https://visitorbadge.io/status?path=paragvekariya%2Fparagvekariya"><img src="https://api.visitorbadge.io/api/visitors?path=paragvekariya%2Fparagvekariya&label=🌍%20Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a> <a href="https://github.com/paragvekariya?tab=repositories"><img src="https://img.shields.io/github/stars/paragvekariya?style=flat&logo=github&label=Total%20Stars&color=teal"/></a> <a href="https://leetcode.com/paragvekariya/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fparagvekariya&logo=leetcode&logoColor=yellow"/></a> </p>
 
-## 🛠️ Languages and Tools:
 
 
 
