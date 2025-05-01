@@ -32,3 +32,22 @@ I mostly work with **JavaScript**, specifically **python** in the backend with *
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=paragvekariya&theme=radical&border_radius=5)](https://git.io/streak-stats)
+
+**Let's code, connect, and create awesome things together!**
+
+<!--
+
+     ____                                      _             
+|  _ \ __ _ _ __ ___  ___  __ _ _ __   __| | ___  _ __  
+| |_) / _` | '__/ __|/ _ \/ _` | '_ \ / _` |/ _ \| '_ \ 
+|  __/ (_| | |  \__ \  __/ (_| | | | | (_| | (_) | | | |
+|_|   \__,_|_|  |___/\___|\__,_|_| |_|\__,_|\___/|_| |_|
+                                                       
+>>> ParagVekariya: Building the future, one line of code at a time ⚡
+
+                                                                                                             
+
+
+
+
+--->
