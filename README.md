@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Parag Vekariya</h1>
 
 # 💫 About Me:
-Hi there 👋, I'm Parag Vekariya<br><br>a passionate Software Engineer and Web Developer, constantly exploring new technologies and building creative solutions. With a strong foundation in front-end development and growing expertise in back-end technologies & DSA, I love turning ideas into real-world projects. My goal is to write clean, efficient, and scalable code while contributing to impactful open-source projects. 🚀
+A passionate Software Engineer and Web Developer, constantly exploring new technologies and building creative solutions. With a strong foundation in front-end development and growing expertise in back-end technologies & DSA, I love turning ideas into real-world projects. My goal is to write clean, efficient, and scalable code while contributing to impactful open-source projects. 🚀
 
 
 ## 🌐 Socials:
